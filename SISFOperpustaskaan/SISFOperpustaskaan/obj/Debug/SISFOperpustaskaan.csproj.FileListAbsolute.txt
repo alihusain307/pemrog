@@ -1,0 +1,11 @@
+D:\YAYO\KULIAH\SEMESTER 3\PEMROGAMAN LANJUT\SISFOperpustaskaan\SISFOperpustaskaan\bin\Debug\SISFOperpustaskaan.exe.config
+D:\YAYO\KULIAH\SEMESTER 3\PEMROGAMAN LANJUT\SISFOperpustaskaan\SISFOperpustaskaan\bin\Debug\SISFOperpustaskaan.exe
+D:\YAYO\KULIAH\SEMESTER 3\PEMROGAMAN LANJUT\SISFOperpustaskaan\SISFOperpustaskaan\bin\Debug\SISFOperpustaskaan.pdb
+D:\YAYO\KULIAH\SEMESTER 3\PEMROGAMAN LANJUT\SISFOperpustaskaan\SISFOperpustaskaan\obj\Debug\SISFOperpustaskaan.csproj.AssemblyReference.cache
+D:\YAYO\KULIAH\SEMESTER 3\PEMROGAMAN LANJUT\SISFOperpustaskaan\SISFOperpustaskaan\obj\Debug\SISFOperpustaskaan.csproj.SuggestedBindingRedirects.cache
+D:\YAYO\KULIAH\SEMESTER 3\PEMROGAMAN LANJUT\SISFOperpustaskaan\SISFOperpustaskaan\obj\Debug\SISFOperpustaskaan.MenuUtama.resources
+D:\YAYO\KULIAH\SEMESTER 3\PEMROGAMAN LANJUT\SISFOperpustaskaan\SISFOperpustaskaan\obj\Debug\SISFOperpustaskaan.Properties.Resources.resources
+D:\YAYO\KULIAH\SEMESTER 3\PEMROGAMAN LANJUT\SISFOperpustaskaan\SISFOperpustaskaan\obj\Debug\SISFOperpustaskaan.csproj.GenerateResource.cache
+D:\YAYO\KULIAH\SEMESTER 3\PEMROGAMAN LANJUT\SISFOperpustaskaan\SISFOperpustaskaan\obj\Debug\SISFOperpustaskaan.csproj.CoreCompileInputs.cache
+D:\YAYO\KULIAH\SEMESTER 3\PEMROGAMAN LANJUT\SISFOperpustaskaan\SISFOperpustaskaan\obj\Debug\SISFOperpustaskaan.exe
+D:\YAYO\KULIAH\SEMESTER 3\PEMROGAMAN LANJUT\SISFOperpustaskaan\SISFOperpustaskaan\obj\Debug\SISFOperpustaskaan.pdb
